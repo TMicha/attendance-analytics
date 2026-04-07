@@ -6,7 +6,7 @@ Analyze virtual attendance logs to uncover engagement patterns and identify at-r
 
 ## Project Structure
 - data/
-- notebooks/ (with outputs and visuals)
+- notebooks/ (includes; data cleaning details, outputs and visuals)
 - reports/
 
 ## Key Features
