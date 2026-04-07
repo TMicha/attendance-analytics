@@ -6,8 +6,7 @@ Analyze virtual attendance logs to uncover engagement patterns and identify at-r
 
 ## Project Structure
 - data/
-- notebooks/
-- outputs/
+- notebooks/ (with outputs and visuals)
 - reports/
 
 ## Key Features
@@ -16,6 +15,7 @@ Analyze virtual attendance logs to uncover engagement patterns and identify at-r
 - At-risk prediction model
 
 ## 📌 Links
-- Notebook: ./notebooks/attendance_analysis.ipynb
-- HTML: ./notebooks/attendance_analysis.html
-- Presentation: ./reports/presentation.pdf
+- Notebook: ./notebooks/Attendance_Analytics_Starter_Project_TM.ipynb
+- HTML: ./notebooks/Attendance_Analytics_Starter_Project_TM.html
+- Presentation: ./reports/Attendance Analytics report_TM032026.pptx
+- Cleaned dataset: ./data/clean/attendance_logs_cleaned.csv
